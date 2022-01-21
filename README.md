@@ -1,1 +1,1 @@
-# lit-fa-toggle-button
+# Lit Fontawesome Toggle Button
